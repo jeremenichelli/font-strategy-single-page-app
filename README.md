@@ -6,4 +6,6 @@ This React application loads a separate bundle _on mount_ that observes web font
 
 Find out how it is done in [this article](https://jeremenichelli.io/2018/07/font-loading-strategy-single-page-applications/).
 
-_This project was created thanks to [create-react-app](https://github.com/facebook/create-react-app), check out its documentation to see how to start and build the project._
+## Local development
+
+_This project was created thanks to [create-react-app](https://github.com/facebook/create-react-app), check out its documentation to see how to start the project._
