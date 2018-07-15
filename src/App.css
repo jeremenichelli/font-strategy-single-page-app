@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #202020;
+  padding: 20px;
+  color: #fefefe;
+}
+
+.App-content {
+  line-height: 1.5;
+  padding: 20px;
+}
+
+.App-subtitle {
+  font-style: italic;
+}
+
+/* system fonts */
+body {
+  font-family: Georgia, serif;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Arial, serif;
+}
+
+/* web fonts */
+.merriweather-ready body {
+  font-family: 'Merriweather', sans-serif;
+}
+
+.roboto-ready h1, 
+.roboto-ready h2, 
+.roboto-ready h3, 
+.roboto-ready h4, 
+.roboto-ready h5, 
+.roboto-ready h6 {
+  font-family: 'Roboto', serif;
+}
